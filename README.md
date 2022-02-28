@@ -12,7 +12,9 @@ Exploration
 Top-Down
 Piano Themed Music
 Large world (Multiple Worlds/Dimensions/"Versus"?)
-
+Pixel Artstyle
+Survival
+Dungeon Crawler
 
 WHY:
 Entertainment
@@ -20,4 +22,6 @@ Calming
 Creativity
 
 HOW:
-Aiming for Python (C# Maybe ; as a last option)
+Python
+
+Perlin noise generation
