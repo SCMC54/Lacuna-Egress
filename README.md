@@ -4,24 +4,24 @@
 
 
 WHAT:
-Singleplayer
-Sandbox
-Farming
-Exploration
-2D
-Top-Down
-Piano Themed Music
-Large world (Multiple Worlds/Dimensions/"Versus"?)
-Pixel Artstyle
-Survival
-Dungeon Crawler
+Singleplayer;
+Sandbox;
+Farming;
+Exploration;
+2D;
+Top-Down;
+Piano Themed Music;
+Large world (Multiple Worlds/Dimensions/"Versus"?);
+Pixel Artstyle;
+Survival;
+Dungeon Crawler;
 
 WHY:
-Entertainment
-Calming
-Creativity
+Entertainment;
+Calming;
+Creativity;
 
 HOW:
-Python
+Python;
+Multi-layered Perlin noise generation;
 
-Perlin noise generation
