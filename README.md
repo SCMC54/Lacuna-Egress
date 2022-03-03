@@ -27,6 +27,6 @@ Creativity;
 
 HOW:
 Python;
-https://rogueliketutorials.com/tutorials/tcod/2019/part-1/
+https://rogueliketutorials.com/tutorials/tcod/2019/part-1/;
 Multi-layered Perlin noise generation;
 
